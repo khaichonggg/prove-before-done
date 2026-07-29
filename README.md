@@ -1,6 +1,6 @@
 # Prove Before Done
 
-[![Validate skill](https://github.com/khaichongwork/prove-before-done/actions/workflows/validate.yml/badge.svg)](https://github.com/khaichongwork/prove-before-done/actions/workflows/validate.yml)
+[![Validate skill](https://github.com/khaichonggg/prove-before-done/actions/workflows/validate.yml/badge.svg)](https://github.com/khaichonggg/prove-before-done/actions/workflows/validate.yml)
 
 An evidence-first Agent Skill that verifies implementation, debugging, automation, migration, and delivery work before reporting success.
 
