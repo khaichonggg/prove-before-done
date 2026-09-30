@@ -40,4 +40,4 @@ python -m unittest discover -s tests -v
 
 ## License
 
-MIT
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), for noncommercial use only.
